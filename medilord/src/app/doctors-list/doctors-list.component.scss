@@ -1,0 +1,44 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+  .starrating > input {display: none;}  /* Remove radio buttons */
+  .bg-body.rounded{
+    border:2px solid #fff;
+  }
+  .bg-body.rounded:hover{
+    border:2px solid #660099;
+  }
+  .starrating > label:before { 
+    content: "\f005"; /* Star */
+    margin: 2px;
+    font-size: 1em;
+    font-family: FontAwesome;
+    display: inline-block; 
+  }
+  i.fa-user:before { 
+    content: "\f0f0"; /* Star */
+    margin: 2px;
+    font-size: 10em;
+    font-family: FontAwesome;
+    display: inline-block; 
+    font-style: normal;
+  }
+  .pBG{ background: #e2d7f7;/*#660099;*/ 
+  color: #fff;
+  height: 150px;
+  width: 150px;
+  line-height: 150px;
+  padding: 2px 10px;
+}
+  
+  .starrating > label
+  {
+    color: #222222; /* Start color when not clicked */
+  }
+  
+  .starrating > input:checked ~ label
+  { color: #ffca08 ; } /* Set yellow color when star checked */
+  
+  .starrating > input:hover ~ label
+  { color: #ffca08 ;  } /* Set yellow color when star hover */
+    

@@ -1,0 +1,27 @@
+.footerBG{
+    background-color:#897f92; //#a29ba9;
+
+    h4{
+        font-size: 18px;
+    }
+    .log0{
+        height: 55px;
+    }
+    .socialLinks a{
+        color:#fff;
+    }
+    .footerNav {
+        li {
+            display: block;
+            width: 100%;
+            a{
+              color:#fff; 
+              padding: 3px 5px; 
+            }
+        }
+    }
+    .copyrightTxt{
+        font-size: 12px;
+        color:#fff;
+    }
+}

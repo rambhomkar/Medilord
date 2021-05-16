@@ -1,0 +1,20 @@
+
+.headBG {
+    background-color:var(--bs-white);
+    .logo{
+        height:60px;
+    }
+}
+.mainNav{
+    li {
+    a{
+        color: #6c757d;
+        text-transform: uppercase;
+        border-bottom: 2px solid #fff;
+        margin: 0 2px;
+    }
+    a:hover,a.active{
+        color:#660099;
+        border-bottom:2px solid #660099;}
+    }
+}
