@@ -15,3 +15,18 @@
         }
     }
 }
+.imgWrap{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background: #fff;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+img{
+    width: 120px;
+    height: 120px;
+}
+}

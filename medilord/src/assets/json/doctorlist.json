@@ -154,39 +154,6 @@
 "ratings": 0
   },
   {
-    "id": 15,
-    "name": "Dr Kirubakar Navamani",
-    "qualification": "",
-    "specialist": "",
-    "contactNumber": "",
-    "interestToSupport": "",
-    "availibility": "",
-    "languages":"Tamil, English",
-"ratings": 0
-  },
-  {
-    "id": 16,
-    "name": "Dr Mullai Veluthambi",
-    "qualification": "MBBS MD OG",
-    "specialist": "Gynecologist",
-    "contactNumber": 9380303588,
-    "interestToSupport": "Not for Public visibility",
-    "availibility": "",
-    "languages":"Tamil, English",
-"ratings": 0
-  },
-  {
-    "id": 17,
-    "name": "Dr Maheswari Balasubrmanian",
-    "qualification": "",
-    "specialist": "General Medicine, Covid",
-    "contactNumber": "",
-    "interestToSupport": "",
-    "availibility": "",
-    "languages":"Tamil, English",
-"ratings": 0
-  },
-  {
     "id": 18,
     "name": "Dr Deepak",
     "qualification": "MBBS MS",
@@ -215,17 +182,6 @@
     "specialist": "Opthomoligist",
     "contactNumber": "",
     "interestToSupport": "",
-    "availibility": "",
-    "languages":"Tamil, English",
-"ratings": 0
-  },
-  {
-    "id": 21,
-    "name": "Dr Sangeetha",
-    "qualification": "MBBS DCH DNB",
-    "specialist": "Pediatrician",
-    "contactNumber": 9444856050,
-    "interestToSupport": "Not for Public visibility",
     "availibility": "",
     "languages":"Tamil, English",
 "ratings": 0
